@@ -1,0 +1,27 @@
+{
+  "name": "TypeScript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "awesome-typescript-loader": "^3.2.2",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.2.1",
+    "source-map-loader": "^0.2.1",
+    "typescript": "^2.4.2"
+  },
+  "dependencies": {
+    "@types/react": "^15.0.39",
+    "@types/react-dom": "^15.5.1",
+    "office-ui-fabric-react": "^4.23.0",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "sp-pnp-js": "^2.0.7"
+  }
+}
